@@ -3,6 +3,6 @@
 /.vscode
 /.angular/cache
 .firebaserc
-.firebase
+/.firebase
 package-lock.json
 .DS_Store
