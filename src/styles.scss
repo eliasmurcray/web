@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'SF Mono';
+  font-weight: 400;
+  src: url('./fonts/sf-mono-400.woff2') format('woff2'),
+    url('./fonts/sf-mono-400.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'SF UI';
+  font-weight: 700;
+  src: url('./fonts/sf-ui-700.woff2') format('woff2'),
+    url('./fonts/sf-ui-700.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'SF UI';
+  font-weight: 400;
+  src: url('./fonts/sf-ui-400.woff2') format('woff2'),
+    url('./fonts/sf-ui-400.woff') format('woff');
+}
+
+body {
+  margin: 0;
+  font: 400 1rem / 1.75 'SF UI';
+  background-color: #121315;
+}
