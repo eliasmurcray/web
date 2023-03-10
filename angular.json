@@ -54,7 +54,10 @@
             "inlineStyleLanguage": "scss",
             "assets": [
               "src/assets",
-              "src/favicons"
+              "src/favicons",
+              "src/images",
+              "src/resume-3-9-2023.pdf",
+              "src/app.ts"
             ],
             "styles": [
               "src/styles.scss"
